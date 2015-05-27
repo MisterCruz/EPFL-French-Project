@@ -1927,8 +1927,8 @@
 
 	#header {
 		position: relative;
-		/*color: #fff;
-		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25); */
+		color: #fff;
+		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		background: url("http://lsci.epfl.ch/files/content/sites/lsci/files/pictures/72_rlc01_herzog2.jpg") no-repeat fixed center;
 		text-align: center;
 		margin: 0;
